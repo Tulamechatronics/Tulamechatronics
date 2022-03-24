@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Tulamechatronics/Tulamechatronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Oudom 👋
+---
 
-Here are some ideas to get you started:
+#### I'm a Physics Facilitator based in Phnom Penh, Cambodia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working full-time at **E2stem Education Cambodia**
+- ⚙️ I use daily:  `.py` `.js`
+- 🌱 Learning more about and studying: **Open Source, Python, CS Algorithms**
+- 📫 Reach me: <a href="https://twitter.com/Oudom38994092">Twitter</a> or https://github.com/Tulamechatronics
+
+#### My Journey
+
+- 👨🏼‍🎓 Graduated Mechatronics in 2020.                
+- 👨🏻‍🏫 Work as Physics Facilitator (2020 - Now).
+- 👩🏾‍💻 Love to implement physics equations to code.
