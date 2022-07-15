@@ -15,6 +15,3 @@
 - 👨🏻‍🏫 Work as Physics Facilitator (2020 - Now).
 - 👩🏾‍💻 Love to implement physics equations to code.
 
-#### Active Commit
-<!-- Snake -->
-<img src="https://raw.githubusercontent.com/Tulamechatronics/Tulamechatronics/output/github-contribution-grid-snake.svg" />
