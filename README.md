@@ -17,4 +17,4 @@
 
 #### Active Commit
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/Tulamechatronics/Tulamechatronics/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Tulamechatronics/Tulamechatronics/output/github-contribution-grid-snake.svg" />
