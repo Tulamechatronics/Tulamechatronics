@@ -15,7 +15,7 @@
 - 👨🏻‍🏫 Work as Physics Facilitator (2020 - Now).
 - 👩🏾‍💻 Love to implement physics equations to code.
 
-#### 
+#### Brief Overview
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulamechatronics)](https://github.com/Tulamechatronics/github-readme-stats)
 
