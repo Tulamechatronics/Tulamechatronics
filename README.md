@@ -1,7 +1,10 @@
 
-### Hi, I'm Oudom 👋
----
+<p align="center">
+  <img src="https://github.com/Tulamechatronics/Tulamechatronics/blob/main/GitHub%20Bio.png" alt="Github Bio" width=90%>
+</p>
 
+
+### Hi, I'm Oudom 👋
 #### I'm a Physics Facilitator based in Phnom Penh, Cambodia.
 
 - 🏢 I'm currently working full-time at **E2stem Education Cambodia**
